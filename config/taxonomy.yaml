@@ -300,3 +300,44 @@ trend_keywords:
   - "digital sovereignty"
   - "regulatory sandbox"
   - "AI auditing"
+
+# --- Subcategory keywords for auto-classification (classify_subcategory) ---
+subcategory_keywords:
+  - id: eu-ai-act
+    keywords: ["AI Act", "Artificial Intelligence Act", "GPAI", "high-risk", "prohibited practices"]
+  - id: sectoral
+    keywords: ["Cyber Resilience Act", "CRA", "Digital Services Act", "DSA", "sectoral", "interplay", "GDPR"]
+  - id: policy-analysis
+    keywords: ["AI governance", "AI regulation", "policy analysis", "governance framework", "regulation"]
+  - id: iso-42001
+    keywords: ["ISO 42001", "ISO/IEC 42001", "AI management system", "certification"]
+  - id: nist-rmf
+    keywords: ["NIST", "AI RMF", "risk management framework", "AI playbook"]
+  - id: auditing
+    keywords: ["AI audit", "algorithmic audit", "conformity assessment", "assurance"]
+  - id: risk-classification
+    keywords: ["high risk", "risk classification", "risk tier", "limited risk", "unacceptable risk"]
+  - id: impact-assessment
+    keywords: ["impact assessment", "FRIA", "fundamental rights impact"]
+  - id: literacy-frameworks
+    keywords: ["AI literacy", "algorithmic literacy", "competence framework", "media literacy"]
+  - id: training
+    keywords: ["AI training", "workforce", "upskilling", "reskilling", "AI education"]
+  - id: hitl
+    keywords: ["human in the loop", "human on the loop", "human oversight", "human intervention"]
+  - id: autonomy
+    keywords: ["automated decision", "contestability", "human agency", "right to explanation", "automated decision-making"]
+  - id: disclosure
+    keywords: ["disclosure", "labeling", "deepfake", "synthetic media", "AI transparency"]
+  - id: documentation
+    keywords: ["model card", "documentation", "datasheet", "logging", "explainability", "record-keeping"]
+  - id: testing-sandbox
+    keywords: ["regulatory sandbox", "red teaming", "evals", "evaluation", "benchmark", "testing"]
+  - id: governance-tooling
+    keywords: ["MLOps", "governance tool", "compliance automation", "AI catalog", "inventory"]
+  - id: sovereign-ai
+    keywords: ["digital sovereignty", "sovereign AI", "strategic autonomy", "technological sovereignty"]
+  - id: compute-controls
+    keywords: ["export control", "compute governance", "frontier model", "semiconductor regulation", "compute threshold"]
+  - id: survey
+    keywords: ["survey", "systematic review", "literature review", "landscape"]
