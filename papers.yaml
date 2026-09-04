@@ -4576,30 +4576,6 @@ papers:
     By providing empirical evidence on AI transparency and platform practices, this
     study advances understanding of individual digital sovereignty and highlights
     challenges for protecting user control in AI-driven digital environments.
-- title: 'Investigating Artificial Intelligence Digital Sovereignty in Mobile Shopping
-    Apps: A Case Study of Nigeria'
-  date: 2026-08
-  url: https://aisel.aisnet.org/amcis2026/sig_globdev/sig_globdev/4
-  category: digital-sovereignty
-  subcategory: disclosure
-  authors:
-  - George Grispos
-  - Sajda Qureshi
-  abstract: The use of e-commerce mobile applications is expanding in Nigeria, creating
-    both opportunities and risks, including fraud and reduced user control over digital
-    technologies, raising concerns about digital sovereignty. This research examines
-    how Artificial Intelligence (AI) in Nigerian mobile applications affects digital
-    sovereignty, examined through platform transparency as a key indicator of user
-    awareness and control. Using an interpretive approach, the research combines the
-    forensic analysis of selected Android applications with contextual document analysis
-    to identify AI features and evaluate disclosure practices. The findings show that
-    AI is widely implemented in the applications, yet transparency about its use remains
-    limited. A socio-economic analysis of Nigeria further shows an increasing dependence
-    on consumer digital platforms, moderate AI awareness, and uneven patterns of interaction.
-    By providing empirical evidence on AI transparency and platform practices, this
-    study advances understanding of individual digital sovereignty and highlights
-    challenges for protecting user control in AI-driven digital environments.
-  venue: Journal of the Association for Information Systems
 - title: Inferential Capability Does Not Determine Legal Scope
   date: 2026-08
   url: https://arxiv.org/abs/2608.10601
@@ -30461,19 +30437,18 @@ papers:
     intensified. However, current approaches, led by jurisdiction-specific laws, policies,
     and voluntary frameworks such as the EU AI Act, China's algorithm governance,
     and the NIST AI Risk Management Framework in the U.S., create a fragmented regulatory
-    landscape. In this position paper, we argue that \textit{AI governance must be
-    built not on laws alone, but on ISO-like interoperability protocols that enable
-    standardized, machine-readable risk communication across borders}. Drawing on
-    the success of the GDPR, which was operationalized through standards like ISO
-    27001 and Privacy by Design, we propose the development of standardized AI nutrition
-    labels containing unified metrics for bias, energy usage, and data provenance
-    to facilitate cross-jurisdictional compliance. These manifests would lower barriers
-    for small and medium enterprises (SMEs), reduce redundant regulatory efforts,
-    and build public trust. The paper addresses concerns that standards may stifle
-    innovation by advocating for modular, versioned protocols designed to evolve in
-    tandem with technological change. Overall, we call for a shift from siloed legal
-    compliance toward interoperable technical conformance, enabling a shared global
-    language for responsible AI deployment.
+    landscape. In this position paper, we argue that AI governance must be built not
+    on laws alone, but on ISO-like interoperability protocols that enable standardized,
+    machine-readable risk communication across borders. Drawing on the success of
+    the GDPR, which was operationalized through standards like ISO 27001 and Privacy
+    by Design, we propose the development of standardized AI nutrition labels containing
+    unified metrics for bias, energy usage, and data provenance to facilitate cross-jurisdictional
+    compliance. These manifests would lower barriers for small and medium enterprises
+    (SMEs), reduce redundant regulatory efforts, and build public trust. The paper
+    addresses concerns that standards may stifle innovation by advocating for modular,
+    versioned protocols designed to evolve in tandem with technological change. Overall,
+    we call for a shift from siloed legal compliance toward interoperable technical
+    conformance, enabling a shared global language for responsible AI deployment.
 - title: 'PosePal: An AI-Powered Human Posture Tracking and Real-Time Alert System'
   date: 2026-05
   url: https://doi.org/10.51583/ijltemas.2026.150500044
@@ -80318,17 +80293,6 @@ papers:
   - Samuel Okediji
   abstract: ''
   venue: ''
-- title: Assessing Model-Agnostic XAI Methods against EU AI Act Explainability Requirements
-  date: 2026-01
-  url: https://doi.org/10.2139/ssrn.6449818
-  category: regulatory-frameworks
-  subcategory: eu-ai-act
-  authors:
-  - Giulia Vilone
-  - Michaël Lognoul
-  - Francesco Sovrano
-  abstract: ''
-  venue: SSRN Electronic Journal
 - title: 'Assessing AI Systems in Financial Services using Agentic AI: The Case of
     the EU AI Act'
   date: 2026-01
@@ -100361,14 +100325,14 @@ papers:
     Africa and South America. A sanctuary cannot function if its life support systems
     fail during a brownout. The Living Fibonacci Engine (LFE) 1 provides the control
     law for total energy autonomy. The LFE operates on a recurrence relation defined
-    as: $F_n = k(R_{n-1}) \cdot F_{n-1} + c(R_{n-1}) \cdot F_{n-2} where R_n is the
+    as: F_n = k(R_{n-1}) \cdot F_{n-1} + c(R_{n-1}) \cdot F_{n-2} where R_n is the
     ratio of the current state to the previous state, approximating the Golden Ratio
     (\phi).1 This mathematical foundation allows the node to oscillate between two
     distinct modes based on energy availability: Adaptive Mode (c=+1): During periods
     of abundance (high solar/wind input), the system expands. The "Rabbit" agent 1
     schedules high-compute tasks such as training large language models, rendering
     3D architectural plans, or synthesizing "Food Cube" stockpiles. Reflective Mode
-    (c=-1$): During scarcity (monsoon season, night, grid collapse), the system contracts
+    (c=-1): During scarcity (monsoon season, night, grid collapse), the system contracts
     to homeostasis. It sheds non-essential loads, pauses research computation, and
     prioritizes life support and security. This "breathing" infrastructure ensures
     that the node is anti-fragile. In a location like the Congo or the Peruvian Andes,
@@ -196426,13 +196390,13 @@ papers:
   abstract: Abstract The increasing involvement of Artificial Intelligence (AI) in
     moral decision situations raises the possibility of users attributing blame to
     AI-based systems for negative outcomes. In two experimental studies with a total
-    of $N = 911$ participants, we explored the attribution of blame and underlying
-    moral reasoning. Participants had to classify mushrooms in pictures as edible
-    or poisonous with support of an AI-based app. Afterwards, participants read a
-    fictitious scenario in which a misclassification due to an erroneous AI recommendation
-    led to the poisoning of a person. In the first study, increased system transparency
-    through explainable AI techniques reduced blaming of AI. A follow-up study showed
-    that attribution of blame to each actor in the scenario depends on their perceived
+    of N = 911 participants, we explored the attribution of blame and underlying moral
+    reasoning. Participants had to classify mushrooms in pictures as edible or poisonous
+    with support of an AI-based app. Afterwards, participants read a fictitious scenario
+    in which a misclassification due to an erroneous AI recommendation led to the
+    poisoning of a person. In the first study, increased system transparency through
+    explainable AI techniques reduced blaming of AI. A follow-up study showed that
+    attribution of blame to each actor in the scenario depends on their perceived
     obligation and capacity to prevent such an event. Thus, blaming AI is indirectly
     associated with mind attribution and blaming oneself is associated with the capability
     to recognize a wrong classification. We discuss implications for future research

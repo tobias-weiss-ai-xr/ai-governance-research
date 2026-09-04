@@ -47,23 +47,23 @@
   {
    "id": "digital-sovereignty",
    "name": "Digital Sovereignty",
-   "count": 770,
+   "count": 769,
    "trajectory": {
     "2023": 13,
     "2024": 71,
     "2025": 254,
-    "2026": 432
+    "2026": 431
    },
    "momentum": {
     "id": "digital-sovereignty",
     "name": "Digital Sovereignty",
-    "total": 770,
-    "recent": 554,
+    "total": 769,
+    "recent": 553,
     "prior": 157,
-    "growth_pct": 252.9,
+    "growth_pct": 252.2,
     "recent_share": 0.719,
-    "papers_per_month": 46.2,
-    "score": 324.8
+    "papers_per_month": 46.1,
+    "score": 324.1
    }
   },
   {
@@ -91,23 +91,23 @@
   {
    "id": "regulatory-frameworks",
    "name": "Regulatory Frameworks",
-   "count": 1222,
+   "count": 1221,
    "trajectory": {
     "2023": 65,
     "2024": 386,
     "2025": 397,
-    "2026": 374
+    "2026": 373
    },
    "momentum": {
     "id": "regulatory-frameworks",
     "name": "Regulatory Frameworks",
-    "total": 1222,
-    "recent": 471,
+    "total": 1221,
+    "recent": 470,
     "prior": 434,
-    "growth_pct": 8.5,
+    "growth_pct": 8.3,
     "recent_share": 0.385,
     "papers_per_month": 39.2,
-    "score": 47.0
+    "score": 46.8
    }
   },
   {
@@ -215,7 +215,7 @@
   {
    "id": "disclosure",
    "name": "Disclosure & Labeling",
-   "count": 271
+   "count": 270
   },
   {
    "id": "documentation",
@@ -225,7 +225,7 @@
   {
    "id": "eu-ai-act",
    "name": "EU AI Act",
-   "count": 2387
+   "count": 2386
   },
   {
    "id": "governance-tooling",
@@ -24907,11 +24907,6 @@
   [
    "2026-01",
    "regulatory-frameworks",
-   "eu-ai-act"
-  ],
-  [
-   "2026-01",
-   "regulatory-frameworks",
    "policy-analysis"
   ],
   [
@@ -34908,11 +34903,6 @@
    "2026-08",
    "compliance-engineering",
    "testing-sandbox"
-  ],
-  [
-   "2026-08",
-   "digital-sovereignty",
-   "disclosure"
   ],
   [
    "2026-08",
@@ -35817,7 +35807,7 @@
   },
   {
    "name": "SSRN Electronic Journal",
-   "papers": 447
+   "papers": 446
   },
   {
    "name": "arXiv (Cornell University)",
@@ -35882,24 +35872,24 @@
   },
   {
    "keyword": "digital sovereignty",
-   "recent": 154,
-   "total": 216,
-   "burst_score": 1.46,
-   "recent_share": 0.0443
+   "recent": 153,
+   "total": 215,
+   "burst_score": 1.45,
+   "recent_share": 0.044
   },
   {
    "keyword": "regulatory sandbox",
    "recent": 189,
    "total": 316,
    "burst_score": 1.22,
-   "recent_share": 0.0543
+   "recent_share": 0.0544
   },
   {
    "keyword": "human oversight",
    "recent": 304,
    "total": 619,
    "burst_score": 1.0,
-   "recent_share": 0.0874
+   "recent_share": 0.0875
   },
   {
    "keyword": "high risk",
