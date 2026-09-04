@@ -1,0 +1,302 @@
+# AI Governance Research Taxonomy & Discovery Config
+#
+# Focus: AI regulation and governance — EU AI Act, ISO 42001 / NIST AI RMF,
+# AI literacy, human oversight, transparency, risk management, compliance
+# engineering, and digital sovereignty
+#
+# Pipeline: config/taxonomy.yaml -> papers.yaml -> validate -> README -> reports
+# please edit below for your topic -------------------------------------------
+
+# --- Topic -----------------------------------------------------------
+topic:
+  name: "AI Governance Research"
+  short: "ai-gov"
+  description: "Regulation, standards, risk management and compliance for AI systems: EU AI Act, ISO 42001, NIST AI RMF, AI literacy, human oversight and digital sovereignty."
+  openalex_mailto: "tobias@tobias-weiss.org"
+
+# --- Taxonomy ----------------------------------------------------------
+# Categories = the main axis of your review
+# Subcategories = the secondary axis
+# Each paper must carry one category + one subcategory.
+taxonomy:
+  categories:
+    - id: regulatory-frameworks
+      display: "Regulatory Frameworks"
+      description: "EU AI Act, sectoral regulation, and legislative governance of AI"
+
+    - id: standards
+      display: "Standards & Certification"
+      description: "ISO 42001, NIST AI RMF, IEEE standards, audits and conformity assessment"
+
+    - id: risk-management
+      display: "Risk Management"
+      description: "Risk classification, impact assessment and mitigation for AI systems"
+
+    - id: ai-literacy
+      display: "AI Literacy & Competence"
+      description: "Article 4 competence, AI skills, training and workforce capability"
+
+    - id: human-oversight
+      display: "Human Oversight"
+      description: "Human-in/on-the-loop, human agency and oversight requirements"
+
+    - id: transparency
+      display: "Transparency & Documentation"
+      description: "Disclosure, model documentation, explainability and record-keeping"
+
+    - id: compliance-engineering
+      display: "Compliance Engineering"
+      description: "Tooling, testing, sandboxes, audits and engineering for compliance"
+
+    - id: digital-sovereignty
+      display: "Digital Sovereignty"
+      description: "Sovereign AI, export controls, compute regulation and strategic autonomy"
+
+    - id: surveys
+      display: "Surveys"
+      description: "Reviews and landscape studies of AI governance"
+
+  subcategories:
+    # Regulatory Frameworks
+    - id: eu-ai-act
+      category: regulatory-frameworks
+      display: "EU AI Act"
+      description: "The AI Act, delegated acts, GPAI obligations and timeline"
+
+    - id: sectoral
+      category: regulatory-frameworks
+      display: "Sectoral Regulation"
+      description: "CRA, DSA, GDPR interplay and sector-specific AI rules"
+
+    - id: policy-analysis
+      category: regulatory-frameworks
+      display: "Policy Analysis"
+      description: "Comparative regulation, policy documents and legislative evaluation"
+
+    # Standards & Certification
+    - id: iso-42001
+      category: standards
+      display: "ISO/IEC 42001"
+      description: "AI management systems and certification practice"
+
+    - id: nist-rmf
+      category: standards
+      display: "NIST AI RMF"
+      description: "NIST AI Risk Management Framework and related playbooks"
+
+    - id: auditing
+      category: standards
+      display: "AI Auditing"
+      description: "Independent audits, conformity assessment and assurance"
+
+    # Risk Management
+    - id: risk-classification
+      category: risk-management
+      display: "Risk Classification"
+      description: "High-risk determination, prohibited practices and tiers"
+
+    - id: impact-assessment
+      category: risk-management
+      display: "Impact Assessment"
+      description: "Fundamental-rights impact assessments and risk controls"
+
+    # AI Literacy
+    - id: literacy-frameworks
+      category: ai-literacy
+      display: "Literacy Frameworks"
+      description: "Competence models and AI literacy definitions"
+
+    - id: training
+      category: ai-literacy
+      display: "Training & Education"
+      description: "Workforce AI training programs and evaluation"
+
+    # Human Oversight
+    - id: hitl
+      category: human-oversight
+      display: "Human-in-the-Loop"
+      description: "HITL/HOTL mechanisms and effective supervision"
+
+    - id: autonomy
+      category: human-oversight
+      display: "Human Agency"
+      description: "Automated decision-making, contestability and human control"
+
+    # Transparency
+    - id: disclosure
+      category: transparency
+      display: "Disclosure & Labeling"
+      description: "AI transparency duties, labeling and deepfake disclosure"
+
+    - id: documentation
+      category: transparency
+      display: "Model Documentation"
+      description: "Model cards, datasheets, technical documentation and logs"
+
+    # Compliance Engineering
+    - id: testing-sandbox
+      category: compliance-engineering
+      display: "Testing & Sandboxes"
+      description: "Regulatory sandboxes, red-teaming and evaluation"
+
+    - id: governance-tooling
+      category: compliance-engineering
+      display: "Governance Tooling"
+      description: "MLOps for governance, cataloging and compliance automation"
+
+    # Digital Sovereignty
+    - id: sovereign-ai
+      category: digital-sovereignty
+      display: "Sovereign AI"
+      description: "National AI infrastructure, foundation models and sovereignty"
+
+    - id: compute-controls
+      category: digital-sovereignty
+      display: "Compute & Export Controls"
+      description: "Compute governance, export controls and frontier regulation"
+
+    # Surveys
+    - id: survey
+      category: surveys
+      display: "Surveys"
+      description: "Systematic reviews of governance research"
+
+# --- Discovery: arXiv queries (fetch_new_papers.py) -------------------------------
+# Each entry is an arXiv API query string (cat: + abs:/ti: operators).
+arxiv_queries:
+  - query: 'cat:cs.CY AND (abs:"AI Act" OR abs:"Artificial Intelligence Act" OR abs:"EU AI Act")'
+    category: eu-ai-act
+
+  - query: 'cat:cs.CY AND (abs:"AI governance" OR abs:"AI regulation" OR abs:"governance of AI")'
+    category: policy-analysis
+
+  - query: 'cat:cs.CY AND (abs:"AI literacy" OR abs:"AI competence" OR abs:"AI skills" OR abs:"algorithmic literacy")'
+    category: literacy-frameworks
+
+  - query: 'cat:cs.CY AND (abs:"algorithmic accountability" OR abs:"algorithmic transparency")'
+    category: disclosure
+
+  - query: 'cat:cs.CY AND (abs:"human oversight" OR abs:"human in the loop")'
+    category: hitl
+
+  - query: 'cat:cs.CY AND (abs:"automated decision" OR abs:"automated decision-making")'
+    category: autonomy
+
+  - query: 'cat:cs.CY AND (abs:"AI auditing" OR abs:"algorithmic auditing" OR abs:"AI audit")'
+    category: auditing
+
+  - query: 'cat:cs.CY AND (abs:"AI risk" AND (abs:"assessment" OR abs:"management"))'
+    category: risk-classification
+
+  - query: 'cat:cs.CY AND (abs:"responsible AI" OR abs:"trustworthy AI" OR abs:"ethical AI")'
+    category: policy-analysis
+
+  - query: 'cat:cs.CY AND (abs:"ISO 42001" OR abs:"AI management system")'
+    category: iso-42001
+
+  - query: 'cat:cs.CY AND (abs:"NIST AI" OR abs:"AI risk management framework")'
+    category: nist-rmf
+
+  - query: 'cat:cs.CY AND (abs:"explainable AI" AND (abs:"regulation" OR abs:"accountability"))'
+    category: documentation
+
+  - query: 'cat:cs.CY AND (abs:"digital sovereignty" OR abs:"sovereign AI" OR abs:"technological sovereignty")'
+    category: sovereign-ai
+
+  - query: 'cat:cs.CY AND (abs:"export controls" AND (abs:"AI" OR abs:"semiconductor" OR abs:"compute"))'
+    category: compute-controls
+
+  - query: 'cat:cs.CY AND (abs:"red teaming" OR abs:"adversarial testing" AND abs:"AI")'
+    category: testing-sandbox
+
+  - query: 'cat:cs.CY AND (abs:"regulatory sandbox" AND (abs:"AI" OR abs:"artificial intelligence"))'
+    category: testing-sandbox
+
+  - query: 'cat:cs.CY AND (abs:"fundamental rights impact assessment" OR abs:"FRIA")'
+    category: impact-assessment
+
+  - query: 'cat:cs.CY AND (abs:"model card" OR abs:"model documentation" OR abs:"AI documentation")'
+    category: documentation
+
+  - query: 'cat:cs.CY AND (abs:"GDPR" AND (abs:"AI" OR abs:"automated"))'
+    category: sectoral
+
+  - query: 'cat:cs.CY AND (abs:"deepfake" OR abs:"synthetic media" AND (abs:"disclosure" OR abs:"labeling"))'
+    category: disclosure
+
+  - query: 'cat:cs.CY AND (abs:"AI governance" AND (abs:"survey" OR abs:"review" OR abs:"taxonomy"))'
+    category: survey
+
+# --- Discovery: OpenAlex bulk queries (fetch_openalex_bulk.py) ---
+# Each entry defines one query phrase.
+openalex_queries:
+  - category: eu-ai-act
+    query: "EU AI Act compliance"
+
+  - category: policy-analysis
+    query: "artificial intelligence regulation"
+
+  - category: literacy-frameworks
+    query: "AI literacy skills"
+
+  - category: risk-classification
+    query: "AI risk classification high risk"
+
+  - category: auditing
+    query: "AI auditing accountability"
+
+  - category: hitl
+    query: "human oversight artificial intelligence"
+
+  - category: iso-42001
+    query: "AI management system ISO"
+
+  - category: transparency
+    query: "algorithmic transparency disclosure"
+
+  - category: testing-sandbox
+    query: "regulatory sandbox AI"
+
+  - category: sovereign-ai
+    query: "digital sovereignty artificial intelligence"
+
+  - category: compute-controls
+    query: "compute governance frontier AI"
+
+  - category: training
+    query: "AI competencies workforce training"
+
+  - category: governance-tooling
+    query: "AI governance framework"
+
+  - category: impact-assessment
+    query: "fundamental rights AI assessment"
+
+# --- Multi-source queries (fetch_other_sources.py) ---
+other_sources_queries:
+  - source: crossref
+    query: "EU AI Act"
+    category: eu-ai-act
+  - source: crossref
+    query: "AI governance"
+    category: policy-analysis
+  - source: dblp
+    query: "AI literacy"
+    category: literacy-frameworks
+  - source: crossref
+    query: "ISO 42001 AI"
+    category: iso-42001
+
+# --- Trend keywords for standard_stats.py ---
+trend_keywords:
+  - "EU AI Act"
+  - "ISO 42001"
+  - "AI RMF"
+  - "AI literacy"
+  - "human oversight"
+  - "high risk"
+  - "GPAI"
+  - "algorithmic accountability"
+  - "digital sovereignty"
+  - "regulatory sandbox"
+  - "AI auditing"
