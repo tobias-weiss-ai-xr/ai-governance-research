@@ -3,155 +3,155 @@
   {
    "id": "ai-literacy",
    "name": "AI Literacy & Competence",
-   "count": 1301,
+   "count": 1331,
    "trajectory": {
     "2023": 43,
     "2024": 253,
     "2025": 506,
-    "2026": 499
+    "2026": 529
    },
    "momentum": {
     "id": "ai-literacy",
     "name": "Ai Literacy",
-    "total": 1301,
-    "recent": 672,
+    "total": 1331,
+    "recent": 702,
     "prior": 449,
-    "growth_pct": 49.7,
-    "recent_share": 0.517,
-    "papers_per_month": 56.0,
-    "score": 101.4
+    "growth_pct": 56.3,
+    "recent_share": 0.527,
+    "papers_per_month": 58.5,
+    "score": 109.0
    }
   },
   {
    "id": "compliance-engineering",
    "name": "Compliance Engineering",
-   "count": 1066,
+   "count": 1093,
    "trajectory": {
     "2023": 28,
     "2024": 196,
     "2025": 397,
-    "2026": 445
+    "2026": 472
    },
    "momentum": {
     "id": "compliance-engineering",
     "name": "Compliance Engineering",
-    "total": 1066,
-    "recent": 563,
+    "total": 1093,
+    "recent": 590,
     "prior": 350,
-    "growth_pct": 60.9,
-    "recent_share": 0.528,
-    "papers_per_month": 46.9,
-    "score": 113.7
+    "growth_pct": 68.6,
+    "recent_share": 0.54,
+    "papers_per_month": 49.2,
+    "score": 122.6
    }
   },
   {
    "id": "digital-sovereignty",
    "name": "Digital Sovereignty",
-   "count": 867,
+   "count": 892,
    "trajectory": {
     "2023": 13,
     "2024": 71,
     "2025": 254,
-    "2026": 529
+    "2026": 554
    },
    "momentum": {
     "id": "digital-sovereignty",
     "name": "Digital Sovereignty",
-    "total": 867,
-    "recent": 651,
+    "total": 892,
+    "recent": 676,
     "prior": 157,
-    "growth_pct": 314.6,
-    "recent_share": 0.751,
-    "papers_per_month": 54.2,
-    "score": 389.7
+    "growth_pct": 330.6,
+    "recent_share": 0.758,
+    "papers_per_month": 56.3,
+    "score": 406.4
    }
   },
   {
    "id": "human-oversight",
    "name": "Human Oversight",
-   "count": 763,
+   "count": 787,
    "trajectory": {
     "2023": 18,
     "2024": 179,
     "2025": 285,
-    "2026": 281
+    "2026": 305
    },
    "momentum": {
     "id": "human-oversight",
     "name": "Human Oversight",
-    "total": 763,
-    "recent": 342,
+    "total": 787,
+    "recent": 366,
     "prior": 299,
-    "growth_pct": 14.4,
-    "recent_share": 0.448,
-    "papers_per_month": 28.5,
-    "score": 59.2
+    "growth_pct": 22.4,
+    "recent_share": 0.465,
+    "papers_per_month": 30.5,
+    "score": 68.9
    }
   },
   {
    "id": "regulatory-frameworks",
    "name": "Regulatory Frameworks",
-   "count": 1470,
+   "count": 1514,
    "trajectory": {
     "2023": 65,
     "2024": 386,
     "2025": 397,
-    "2026": 622
+    "2026": 666
    },
    "momentum": {
     "id": "regulatory-frameworks",
     "name": "Regulatory Frameworks",
-    "total": 1470,
-    "recent": 719,
+    "total": 1514,
+    "recent": 763,
     "prior": 434,
-    "growth_pct": 65.7,
-    "recent_share": 0.489,
-    "papers_per_month": 59.9,
-    "score": 114.6
+    "growth_pct": 75.8,
+    "recent_share": 0.504,
+    "papers_per_month": 63.6,
+    "score": 126.2
    }
   },
   {
    "id": "risk-management",
    "name": "Risk Management",
-   "count": 1117,
+   "count": 1141,
    "trajectory": {
     "2023": 28,
     "2024": 243,
     "2025": 429,
-    "2026": 417
+    "2026": 441
    },
    "momentum": {
     "id": "risk-management",
     "name": "Risk Management",
-    "total": 1117,
-    "recent": 558,
+    "total": 1141,
+    "recent": 582,
     "prior": 385,
-    "growth_pct": 44.9,
-    "recent_share": 0.5,
-    "papers_per_month": 46.5,
-    "score": 94.9
+    "growth_pct": 51.2,
+    "recent_share": 0.51,
+    "papers_per_month": 48.5,
+    "score": 102.2
    }
   },
   {
    "id": "standards",
    "name": "Standards & Certification",
-   "count": 1127,
+   "count": 1163,
    "trajectory": {
     "2023": 11,
     "2024": 123,
     "2025": 421,
-    "2026": 572
+    "2026": 608
    },
    "momentum": {
     "id": "standards",
     "name": "Standards",
-    "total": 1127,
-    "recent": 753,
+    "total": 1163,
+    "recent": 789,
     "prior": 290,
-    "growth_pct": 159.7,
-    "recent_share": 0.668,
-    "papers_per_month": 62.8,
-    "score": 226.5
+    "growth_pct": 172.1,
+    "recent_share": 0.678,
+    "papers_per_month": 65.8,
+    "score": 239.9
    }
   },
   {
@@ -176,23 +176,23 @@
   {
    "id": "transparency",
    "name": "Transparency & Documentation",
-   "count": 535,
+   "count": 545,
    "trajectory": {
     "2023": 8,
     "2024": 63,
     "2025": 153,
-    "2026": 311
+    "2026": 321
    },
    "momentum": {
     "id": "transparency",
     "name": "Transparency",
-    "total": 535,
-    "recent": 363,
+    "total": 545,
+    "recent": 373,
     "prior": 124,
-    "growth_pct": 192.7,
-    "recent_share": 0.679,
-    "papers_per_month": 30.2,
-    "score": 260.6
+    "growth_pct": 200.8,
+    "recent_share": 0.684,
+    "papers_per_month": 31.1,
+    "score": 269.2
    }
   }
  ],
@@ -200,12 +200,12 @@
   {
    "id": "auditing",
    "name": "AI Auditing",
-   "count": 129
+   "count": 133
   },
   {
    "id": "autonomy",
    "name": "Human Agency",
-   "count": 40
+   "count": 41
   },
   {
    "id": "compute-controls",
@@ -215,27 +215,27 @@
   {
    "id": "disclosure",
    "name": "Disclosure & Labeling",
-   "count": 294
+   "count": 298
   },
   {
    "id": "documentation",
    "name": "Model Documentation",
-   "count": 113
+   "count": 114
   },
   {
    "id": "eu-ai-act",
    "name": "EU AI Act",
-   "count": 2735
+   "count": 2810
   },
   {
    "id": "governance-tooling",
    "name": "Governance Tooling",
-   "count": 6
+   "count": 7
   },
   {
    "id": "hitl",
    "name": "Human-in-the-Loop",
-   "count": 329
+   "count": 340
   },
   {
    "id": "impact-assessment",
@@ -245,52 +245,52 @@
   {
    "id": "iso-42001",
    "name": "ISO/IEC 42001",
-   "count": 93
+   "count": 99
   },
   {
    "id": "literacy-frameworks",
    "name": "Literacy Frameworks",
-   "count": 534
+   "count": 549
   },
   {
    "id": "nist-rmf",
    "name": "NIST AI RMF",
-   "count": 353
+   "count": 369
   },
   {
    "id": "policy-analysis",
    "name": "Policy Analysis",
-   "count": 1790
+   "count": 1841
   },
   {
    "id": "risk-classification",
    "name": "Risk Classification",
-   "count": 71
+   "count": 72
   },
   {
    "id": "sectoral",
    "name": "Sectoral Regulation",
-   "count": 647
+   "count": 658
   },
   {
    "id": "sovereign-ai",
    "name": "Sovereign AI",
-   "count": 135
+   "count": 137
   },
   {
    "id": "survey",
    "name": "Surveys",
-   "count": 211
+   "count": 215
   },
   {
    "id": "testing-sandbox",
    "name": "Testing & Sandboxes",
-   "count": 359
+   "count": 368
   },
   {
    "id": "training",
    "name": "Training & Education",
-   "count": 369
+   "count": 377
   }
  ],
  "timeline": [
@@ -34012,6 +34012,11 @@
   [
    "2026-07",
    "compliance-engineering",
+   "eu-ai-act"
+  ],
+  [
+   "2026-07",
+   "compliance-engineering",
    "hitl"
   ],
   [
@@ -34587,6 +34592,11 @@
   [
    "2026-07",
    "digital-sovereignty",
+   "policy-analysis"
+  ],
+  [
+   "2026-07",
+   "digital-sovereignty",
    "sectoral"
   ],
   [
@@ -35012,6 +35022,11 @@
   [
    "2026-07",
    "human-oversight",
+   "nist-rmf"
+  ],
+  [
+   "2026-07",
+   "human-oversight",
    "policy-analysis"
   ],
   [
@@ -35128,6 +35143,16 @@
    "2026-07",
    "regulatory-frameworks",
    "documentation"
+  ],
+  [
+   "2026-07",
+   "regulatory-frameworks",
+   "eu-ai-act"
+  ],
+  [
+   "2026-07",
+   "regulatory-frameworks",
+   "eu-ai-act"
   ],
   [
    "2026-07",
@@ -36088,6 +36113,11 @@
    "2026-07",
    "risk-management",
    "eu-ai-act"
+  ],
+  [
+   "2026-07",
+   "risk-management",
+   "governance-tooling"
   ],
   [
    "2026-07",
@@ -36271,6 +36301,11 @@
   ],
   [
    "2026-07",
+   "risk-management",
+   "testing-sandbox"
+  ],
+  [
+   "2026-07",
    "standards",
    "auditing"
   ],
@@ -37057,7 +37092,7 @@
   [
    "2026-08",
    "ai-literacy",
-   "iso-42001"
+   "eu-ai-act"
   ],
   [
    "2026-08",
@@ -37067,6 +37102,26 @@
   [
    "2026-08",
    "ai-literacy",
+   "iso-42001"
+  ],
+  [
+   "2026-08",
+   "ai-literacy",
+   "literacy-frameworks"
+  ],
+  [
+   "2026-08",
+   "ai-literacy",
+   "literacy-frameworks"
+  ],
+  [
+   "2026-08",
+   "ai-literacy",
+   "literacy-frameworks"
+  ],
+  [
+   "2026-08",
+   "ai-literacy",
    "literacy-frameworks"
   ],
   [
@@ -37372,7 +37427,12 @@
   [
    "2026-08",
    "ai-literacy",
-   "policy-analysis"
+   "nist-rmf"
+  ],
+  [
+   "2026-08",
+   "ai-literacy",
+   "nist-rmf"
   ],
   [
    "2026-08",
@@ -37398,6 +37458,16 @@
    "2026-08",
    "ai-literacy",
    "policy-analysis"
+  ],
+  [
+   "2026-08",
+   "ai-literacy",
+   "policy-analysis"
+  ],
+  [
+   "2026-08",
+   "ai-literacy",
+   "sectoral"
   ],
   [
    "2026-08",
@@ -37448,6 +37518,16 @@
    "2026-08",
    "ai-literacy",
    "testing-sandbox"
+  ],
+  [
+   "2026-08",
+   "ai-literacy",
+   "testing-sandbox"
+  ],
+  [
+   "2026-08",
+   "ai-literacy",
+   "training"
   ],
   [
    "2026-08",
@@ -37652,6 +37732,16 @@
   [
    "2026-08",
    "compliance-engineering",
+   "eu-ai-act"
+  ],
+  [
+   "2026-08",
+   "compliance-engineering",
+   "eu-ai-act"
+  ],
+  [
+   "2026-08",
+   "compliance-engineering",
    "iso-42001"
   ],
   [
@@ -37678,6 +37768,31 @@
    "2026-08",
    "compliance-engineering",
    "nist-rmf"
+  ],
+  [
+   "2026-08",
+   "compliance-engineering",
+   "nist-rmf"
+  ],
+  [
+   "2026-08",
+   "compliance-engineering",
+   "policy-analysis"
+  ],
+  [
+   "2026-08",
+   "compliance-engineering",
+   "policy-analysis"
+  ],
+  [
+   "2026-08",
+   "compliance-engineering",
+   "policy-analysis"
+  ],
+  [
+   "2026-08",
+   "compliance-engineering",
+   "policy-analysis"
   ],
   [
    "2026-08",
@@ -37932,6 +38047,16 @@
   [
    "2026-08",
    "compliance-engineering",
+   "sectoral"
+  ],
+  [
+   "2026-08",
+   "compliance-engineering",
+   "sectoral"
+  ],
+  [
+   "2026-08",
+   "compliance-engineering",
    "testing-sandbox"
   ],
   [
@@ -38067,7 +38192,7 @@
   [
    "2026-08",
    "digital-sovereignty",
-   "nist-rmf"
+   "eu-ai-act"
   ],
   [
    "2026-08",
@@ -38097,6 +38222,16 @@
   [
    "2026-08",
    "digital-sovereignty",
+   "nist-rmf"
+  ],
+  [
+   "2026-08",
+   "digital-sovereignty",
+   "policy-analysis"
+  ],
+  [
+   "2026-08",
+   "digital-sovereignty",
    "policy-analysis"
   ],
   [
@@ -38268,6 +38403,11 @@
    "2026-08",
    "digital-sovereignty",
    "sectoral"
+  ],
+  [
+   "2026-08",
+   "digital-sovereignty",
+   "sovereign-ai"
   ],
   [
    "2026-08",
@@ -38652,6 +38792,16 @@
   [
    "2026-08",
    "human-oversight",
+   "nist-rmf"
+  ],
+  [
+   "2026-08",
+   "human-oversight",
+   "policy-analysis"
+  ],
+  [
+   "2026-08",
+   "human-oversight",
    "policy-analysis"
   ],
   [
@@ -38773,6 +38923,16 @@
    "2026-08",
    "regulatory-frameworks",
    "disclosure"
+  ],
+  [
+   "2026-08",
+   "regulatory-frameworks",
+   "eu-ai-act"
+  ],
+  [
+   "2026-08",
+   "regulatory-frameworks",
+   "eu-ai-act"
   ],
   [
    "2026-08",
@@ -39552,6 +39712,26 @@
   [
    "2026-08",
    "regulatory-frameworks",
+   "policy-analysis"
+  ],
+  [
+   "2026-08",
+   "regulatory-frameworks",
+   "policy-analysis"
+  ],
+  [
+   "2026-08",
+   "regulatory-frameworks",
+   "policy-analysis"
+  ],
+  [
+   "2026-08",
+   "regulatory-frameworks",
+   "policy-analysis"
+  ],
+  [
+   "2026-08",
+   "regulatory-frameworks",
    "sectoral"
   ],
   [
@@ -39867,6 +40047,31 @@
   [
    "2026-08",
    "risk-management",
+   "eu-ai-act"
+  ],
+  [
+   "2026-08",
+   "risk-management",
+   "eu-ai-act"
+  ],
+  [
+   "2026-08",
+   "risk-management",
+   "eu-ai-act"
+  ],
+  [
+   "2026-08",
+   "risk-management",
+   "eu-ai-act"
+  ],
+  [
+   "2026-08",
+   "risk-management",
+   "eu-ai-act"
+  ],
+  [
+   "2026-08",
+   "risk-management",
    "hitl"
   ],
   [
@@ -39887,7 +40092,7 @@
   [
    "2026-08",
    "risk-management",
-   "policy-analysis"
+   "nist-rmf"
   ],
   [
    "2026-08",
@@ -39933,6 +40138,16 @@
    "2026-08",
    "risk-management",
    "policy-analysis"
+  ],
+  [
+   "2026-08",
+   "risk-management",
+   "policy-analysis"
+  ],
+  [
+   "2026-08",
+   "risk-management",
+   "risk-classification"
   ],
   [
    "2026-08",
@@ -40023,6 +40238,16 @@
    "2026-08",
    "risk-management",
    "sectoral"
+  ],
+  [
+   "2026-08",
+   "risk-management",
+   "testing-sandbox"
+  ],
+  [
+   "2026-08",
+   "risk-management",
+   "testing-sandbox"
   ],
   [
    "2026-08",
@@ -40347,6 +40572,21 @@
   [
    "2026-08",
    "standards",
+   "eu-ai-act"
+  ],
+  [
+   "2026-08",
+   "standards",
+   "eu-ai-act"
+  ],
+  [
+   "2026-08",
+   "standards",
+   "eu-ai-act"
+  ],
+  [
+   "2026-08",
+   "standards",
    "hitl"
   ],
   [
@@ -40358,6 +40598,11 @@
    "2026-08",
    "standards",
    "impact-assessment"
+  ],
+  [
+   "2026-08",
+   "standards",
+   "iso-42001"
   ],
   [
    "2026-08",
@@ -40880,6 +41125,26 @@
    "sectoral"
   ],
   [
+   "2026-08",
+   "transparency",
+   "training"
+  ],
+  [
+   "2026-09",
+   "ai-literacy",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "ai-literacy",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "ai-literacy",
+   "eu-ai-act"
+  ],
+  [
    "2026-09",
    "ai-literacy",
    "eu-ai-act"
@@ -40942,6 +41207,71 @@
   [
    "2026-09",
    "ai-literacy",
+   "literacy-frameworks"
+  ],
+  [
+   "2026-09",
+   "ai-literacy",
+   "literacy-frameworks"
+  ],
+  [
+   "2026-09",
+   "ai-literacy",
+   "literacy-frameworks"
+  ],
+  [
+   "2026-09",
+   "ai-literacy",
+   "literacy-frameworks"
+  ],
+  [
+   "2026-09",
+   "ai-literacy",
+   "literacy-frameworks"
+  ],
+  [
+   "2026-09",
+   "ai-literacy",
+   "literacy-frameworks"
+  ],
+  [
+   "2026-09",
+   "ai-literacy",
+   "literacy-frameworks"
+  ],
+  [
+   "2026-09",
+   "ai-literacy",
+   "literacy-frameworks"
+  ],
+  [
+   "2026-09",
+   "ai-literacy",
+   "literacy-frameworks"
+  ],
+  [
+   "2026-09",
+   "ai-literacy",
+   "literacy-frameworks"
+  ],
+  [
+   "2026-09",
+   "ai-literacy",
+   "literacy-frameworks"
+  ],
+  [
+   "2026-09",
+   "ai-literacy",
+   "nist-rmf"
+  ],
+  [
+   "2026-09",
+   "ai-literacy",
+   "nist-rmf"
+  ],
+  [
+   "2026-09",
+   "ai-literacy",
    "nist-rmf"
   ],
   [
@@ -40962,7 +41292,32 @@
   [
    "2026-09",
    "ai-literacy",
+   "survey"
+  ],
+  [
+   "2026-09",
+   "ai-literacy",
    "testing-sandbox"
+  ],
+  [
+   "2026-09",
+   "ai-literacy",
+   "training"
+  ],
+  [
+   "2026-09",
+   "ai-literacy",
+   "training"
+  ],
+  [
+   "2026-09",
+   "ai-literacy",
+   "training"
+  ],
+  [
+   "2026-09",
+   "ai-literacy",
+   "training"
   ],
   [
    "2026-09",
@@ -40972,7 +41327,77 @@
   [
    "2026-09",
    "compliance-engineering",
+   "disclosure"
+  ],
+  [
+   "2026-09",
+   "compliance-engineering",
    "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "compliance-engineering",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "compliance-engineering",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "compliance-engineering",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "compliance-engineering",
+   "policy-analysis"
+  ],
+  [
+   "2026-09",
+   "compliance-engineering",
+   "policy-analysis"
+  ],
+  [
+   "2026-09",
+   "compliance-engineering",
+   "policy-analysis"
+  ],
+  [
+   "2026-09",
+   "compliance-engineering",
+   "policy-analysis"
+  ],
+  [
+   "2026-09",
+   "compliance-engineering",
+   "policy-analysis"
+  ],
+  [
+   "2026-09",
+   "compliance-engineering",
+   "policy-analysis"
+  ],
+  [
+   "2026-09",
+   "compliance-engineering",
+   "policy-analysis"
+  ],
+  [
+   "2026-09",
+   "compliance-engineering",
+   "policy-analysis"
+  ],
+  [
+   "2026-09",
+   "compliance-engineering",
+   "policy-analysis"
+  ],
+  [
+   "2026-09",
+   "compliance-engineering",
+   "policy-analysis"
   ],
   [
    "2026-09",
@@ -41022,6 +41447,21 @@
   [
    "2026-09",
    "compliance-engineering",
+   "sectoral"
+  ],
+  [
+   "2026-09",
+   "compliance-engineering",
+   "testing-sandbox"
+  ],
+  [
+   "2026-09",
+   "compliance-engineering",
+   "testing-sandbox"
+  ],
+  [
+   "2026-09",
+   "compliance-engineering",
    "testing-sandbox"
   ],
   [
@@ -41037,12 +41477,82 @@
   [
    "2026-09",
    "digital-sovereignty",
+   "autonomy"
+  ],
+  [
+   "2026-09",
+   "digital-sovereignty",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "digital-sovereignty",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "digital-sovereignty",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "digital-sovereignty",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "digital-sovereignty",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "digital-sovereignty",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "digital-sovereignty",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "digital-sovereignty",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "digital-sovereignty",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "digital-sovereignty",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "digital-sovereignty",
    "eu-ai-act"
   ],
   [
    "2026-09",
    "digital-sovereignty",
    "hitl"
+  ],
+  [
+   "2026-09",
+   "digital-sovereignty",
+   "nist-rmf"
+  ],
+  [
+   "2026-09",
+   "digital-sovereignty",
+   "nist-rmf"
+  ],
+  [
+   "2026-09",
+   "digital-sovereignty",
+   "nist-rmf"
   ],
   [
    "2026-09",
@@ -41067,6 +41577,26 @@
   [
    "2026-09",
    "digital-sovereignty",
+   "policy-analysis"
+  ],
+  [
+   "2026-09",
+   "digital-sovereignty",
+   "policy-analysis"
+  ],
+  [
+   "2026-09",
+   "digital-sovereignty",
+   "policy-analysis"
+  ],
+  [
+   "2026-09",
+   "digital-sovereignty",
+   "sectoral"
+  ],
+  [
+   "2026-09",
+   "digital-sovereignty",
    "sectoral"
   ],
   [
@@ -41088,6 +41618,21 @@
    "2026-09",
    "digital-sovereignty",
    "sovereign-ai"
+  ],
+  [
+   "2026-09",
+   "digital-sovereignty",
+   "sovereign-ai"
+  ],
+  [
+   "2026-09",
+   "digital-sovereignty",
+   "testing-sandbox"
+  ],
+  [
+   "2026-09",
+   "digital-sovereignty",
+   "testing-sandbox"
   ],
   [
    "2026-09",
@@ -41122,6 +41667,16 @@
   [
    "2026-09",
    "human-oversight",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "human-oversight",
+   "hitl"
+  ],
+  [
+   "2026-09",
+   "human-oversight",
    "hitl"
   ],
   [
@@ -41133,6 +41688,56 @@
    "2026-09",
    "human-oversight",
    "hitl"
+  ],
+  [
+   "2026-09",
+   "human-oversight",
+   "hitl"
+  ],
+  [
+   "2026-09",
+   "human-oversight",
+   "hitl"
+  ],
+  [
+   "2026-09",
+   "human-oversight",
+   "hitl"
+  ],
+  [
+   "2026-09",
+   "human-oversight",
+   "hitl"
+  ],
+  [
+   "2026-09",
+   "human-oversight",
+   "hitl"
+  ],
+  [
+   "2026-09",
+   "human-oversight",
+   "hitl"
+  ],
+  [
+   "2026-09",
+   "human-oversight",
+   "hitl"
+  ],
+  [
+   "2026-09",
+   "human-oversight",
+   "hitl"
+  ],
+  [
+   "2026-09",
+   "human-oversight",
+   "hitl"
+  ],
+  [
+   "2026-09",
+   "human-oversight",
+   "iso-42001"
   ],
   [
    "2026-09",
@@ -41147,6 +41752,26 @@
   [
    "2026-09",
    "human-oversight",
+   "literacy-frameworks"
+  ],
+  [
+   "2026-09",
+   "human-oversight",
+   "nist-rmf"
+  ],
+  [
+   "2026-09",
+   "human-oversight",
+   "nist-rmf"
+  ],
+  [
+   "2026-09",
+   "human-oversight",
+   "nist-rmf"
+  ],
+  [
+   "2026-09",
+   "human-oversight",
    "nist-rmf"
   ],
   [
@@ -41168,6 +41793,21 @@
    "2026-09",
    "human-oversight",
    "policy-analysis"
+  ],
+  [
+   "2026-09",
+   "human-oversight",
+   "policy-analysis"
+  ],
+  [
+   "2026-09",
+   "human-oversight",
+   "policy-analysis"
+  ],
+  [
+   "2026-09",
+   "human-oversight",
+   "sectoral"
   ],
   [
    "2026-09",
@@ -41186,6 +41826,116 @@
   ],
   [
    "2026-09",
+   "human-oversight",
+   "training"
+  ],
+  [
+   "2026-09",
+   "human-oversight",
+   "training"
+  ],
+  [
+   "2026-09",
+   "regulatory-frameworks",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "regulatory-frameworks",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "regulatory-frameworks",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "regulatory-frameworks",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "regulatory-frameworks",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "regulatory-frameworks",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "regulatory-frameworks",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "regulatory-frameworks",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "regulatory-frameworks",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "regulatory-frameworks",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "regulatory-frameworks",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "regulatory-frameworks",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "regulatory-frameworks",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "regulatory-frameworks",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "regulatory-frameworks",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "regulatory-frameworks",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "regulatory-frameworks",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "regulatory-frameworks",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "regulatory-frameworks",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "regulatory-frameworks",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
    "regulatory-frameworks",
    "eu-ai-act"
   ],
@@ -41277,6 +42027,86 @@
   [
    "2026-09",
    "regulatory-frameworks",
+   "policy-analysis"
+  ],
+  [
+   "2026-09",
+   "regulatory-frameworks",
+   "policy-analysis"
+  ],
+  [
+   "2026-09",
+   "regulatory-frameworks",
+   "policy-analysis"
+  ],
+  [
+   "2026-09",
+   "regulatory-frameworks",
+   "policy-analysis"
+  ],
+  [
+   "2026-09",
+   "regulatory-frameworks",
+   "policy-analysis"
+  ],
+  [
+   "2026-09",
+   "regulatory-frameworks",
+   "policy-analysis"
+  ],
+  [
+   "2026-09",
+   "regulatory-frameworks",
+   "policy-analysis"
+  ],
+  [
+   "2026-09",
+   "regulatory-frameworks",
+   "policy-analysis"
+  ],
+  [
+   "2026-09",
+   "regulatory-frameworks",
+   "policy-analysis"
+  ],
+  [
+   "2026-09",
+   "regulatory-frameworks",
+   "policy-analysis"
+  ],
+  [
+   "2026-09",
+   "regulatory-frameworks",
+   "policy-analysis"
+  ],
+  [
+   "2026-09",
+   "regulatory-frameworks",
+   "policy-analysis"
+  ],
+  [
+   "2026-09",
+   "regulatory-frameworks",
+   "policy-analysis"
+  ],
+  [
+   "2026-09",
+   "regulatory-frameworks",
+   "policy-analysis"
+  ],
+  [
+   "2026-09",
+   "regulatory-frameworks",
+   "policy-analysis"
+  ],
+  [
+   "2026-09",
+   "regulatory-frameworks",
+   "sectoral"
+  ],
+  [
+   "2026-09",
+   "regulatory-frameworks",
    "sectoral"
   ],
   [
@@ -41338,6 +42168,66 @@
    "2026-09",
    "risk-management",
    "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "risk-management",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "risk-management",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "risk-management",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "risk-management",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "risk-management",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "risk-management",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "risk-management",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "risk-management",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "risk-management",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "risk-management",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "risk-management",
+   "iso-42001"
+  ],
+  [
+   "2026-09",
+   "risk-management",
+   "nist-rmf"
   ],
   [
    "2026-09",
@@ -41361,6 +42251,26 @@
   ],
   [
    "2026-09",
+   "risk-management",
+   "sectoral"
+  ],
+  [
+   "2026-09",
+   "standards",
+   "auditing"
+  ],
+  [
+   "2026-09",
+   "standards",
+   "auditing"
+  ],
+  [
+   "2026-09",
+   "standards",
+   "auditing"
+  ],
+  [
+   "2026-09",
    "standards",
    "auditing"
   ],
@@ -41388,6 +42298,66 @@
    "2026-09",
    "standards",
    "documentation"
+  ],
+  [
+   "2026-09",
+   "standards",
+   "documentation"
+  ],
+  [
+   "2026-09",
+   "standards",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "standards",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "standards",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "standards",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "standards",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "standards",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "standards",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "standards",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "standards",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "standards",
+   "eu-ai-act"
+  ],
+  [
+   "2026-09",
+   "standards",
+   "eu-ai-act"
   ],
   [
    "2026-09",
@@ -41447,12 +42417,72 @@
   [
    "2026-09",
    "standards",
+   "iso-42001"
+  ],
+  [
+   "2026-09",
+   "standards",
+   "iso-42001"
+  ],
+  [
+   "2026-09",
+   "standards",
+   "iso-42001"
+  ],
+  [
+   "2026-09",
+   "standards",
    "nist-rmf"
   ],
   [
    "2026-09",
    "standards",
    "nist-rmf"
+  ],
+  [
+   "2026-09",
+   "standards",
+   "nist-rmf"
+  ],
+  [
+   "2026-09",
+   "standards",
+   "policy-analysis"
+  ],
+  [
+   "2026-09",
+   "standards",
+   "policy-analysis"
+  ],
+  [
+   "2026-09",
+   "standards",
+   "policy-analysis"
+  ],
+  [
+   "2026-09",
+   "standards",
+   "policy-analysis"
+  ],
+  [
+   "2026-09",
+   "standards",
+   "policy-analysis"
+  ],
+  [
+   "2026-09",
+   "standards",
+   "policy-analysis"
+  ],
+  [
+   "2026-09",
+   "standards",
+   "policy-analysis"
+  ],
+  [
+   "2026-09",
+   "standards",
+   "policy-analysis"
   ],
   [
    "2026-09",
@@ -41482,12 +42512,42 @@
   [
    "2026-09",
    "standards",
+   "sectoral"
+  ],
+  [
+   "2026-09",
+   "standards",
+   "survey"
+  ],
+  [
+   "2026-09",
+   "standards",
+   "survey"
+  ],
+  [
+   "2026-09",
+   "standards",
+   "survey"
+  ],
+  [
+   "2026-09",
+   "standards",
    "survey"
   ],
   [
    "2026-09",
    "standards",
    "testing-sandbox"
+  ],
+  [
+   "2026-09",
+   "standards",
+   "testing-sandbox"
+  ],
+  [
+   "2026-09",
+   "transparency",
+   "auditing"
   ],
   [
    "2026-09",
@@ -41517,6 +42577,46 @@
   [
    "2026-09",
    "transparency",
+   "disclosure"
+  ],
+  [
+   "2026-09",
+   "transparency",
+   "disclosure"
+  ],
+  [
+   "2026-09",
+   "transparency",
+   "disclosure"
+  ],
+  [
+   "2026-09",
+   "transparency",
+   "hitl"
+  ],
+  [
+   "2026-09",
+   "transparency",
+   "policy-analysis"
+  ],
+  [
+   "2026-09",
+   "transparency",
+   "policy-analysis"
+  ],
+  [
+   "2026-09",
+   "transparency",
+   "sectoral"
+  ],
+  [
+   "2026-09",
+   "transparency",
+   "sectoral"
+  ],
+  [
+   "2026-09",
+   "transparency",
    "sectoral"
   ],
   [
@@ -41533,7 +42633,7 @@
  "venues": [
   {
    "name": "Zenodo (CERN European Organization for Nuclear Research)",
-   "papers": 849
+   "papers": 912
   },
   {
    "name": "SSRN Electronic Journal",
@@ -41541,27 +42641,31 @@
   },
   {
    "name": "arXiv (Cornell University)",
-   "papers": 149
+   "papers": 153
   },
   {
    "name": "Advances in computational intelligence and robotics book series",
-   "papers": 70
+   "papers": 72
   },
   {
    "name": "Preprints.org",
-   "papers": 54
-  },
-  {
-   "name": "AI and Ethics",
-   "papers": 50
+   "papers": 55
   },
   {
    "name": "Research Square",
-   "papers": 48
+   "papers": 53
+  },
+  {
+   "name": "AI and Ethics",
+   "papers": 52
   },
   {
    "name": "Lecture notes in computer science",
    "papers": 38
+  },
+  {
+   "name": "Figshare",
+   "papers": 37
   },
   {
    "name": "Communications in computer and information science",
@@ -41576,12 +42680,8 @@
    "papers": 35
   },
   {
-   "name": "Figshare",
-   "papers": 34
-  },
-  {
    "name": "Sustainability",
-   "papers": 33
+   "papers": 34
   },
   {
    "name": "Lecture notes in networks and systems",
@@ -41595,38 +42695,38 @@
  "keyword_bursts": [
   {
    "keyword": "algorithmic accountability",
-   "recent": 66,
-   "total": 86,
-   "burst_score": 1.37,
-   "recent_share": 0.0143
+   "recent": 70,
+   "total": 90,
+   "burst_score": 1.36,
+   "recent_share": 0.0145
   },
   {
    "keyword": "digital sovereignty",
-   "recent": 188,
-   "total": 250,
-   "burst_score": 1.34,
-   "recent_share": 0.0407
-  },
-  {
-   "keyword": "regulatory sandbox",
-   "recent": 199,
-   "total": 326,
-   "burst_score": 1.09,
-   "recent_share": 0.0431
+   "recent": 194,
+   "total": 256,
+   "burst_score": 1.33,
+   "recent_share": 0.0401
   },
   {
    "keyword": "human oversight",
-   "recent": 483,
-   "total": 798,
+   "recent": 518,
+   "total": 833,
+   "burst_score": 1.09,
+   "recent_share": 0.107
+  },
+  {
+   "keyword": "regulatory sandbox",
+   "recent": 203,
+   "total": 330,
    "burst_score": 1.08,
-   "recent_share": 0.1045
+   "recent_share": 0.0419
   },
   {
    "keyword": "high risk",
-   "recent": 29,
-   "total": 84,
+   "recent": 30,
+   "total": 85,
    "burst_score": 0.62,
-   "recent_share": 0.0063
+   "recent_share": 0.0062
   }
  ]
 }

@@ -6,21 +6,21 @@ Bootstrap in progress.
 
 ## 📊 Corpus Statistics
 
-**8247 papers** across **9 categories**.  
-Sources: **arXiv** 566 (7%).  
+**8467 papers** across **9 categories**.  
+Sources: **arXiv** 570 (7%).  
 
 ### Top categories
 
 | Category | Papers | Recent | |
 |----------|--------|--------|-|
-| regulatory-frameworks | **1470** | 719 | ████████████ |
-| ai-literacy | **1301** | 672 | ███████████░ |
-| standards | **1127** | 753 | █████████░░░ |
-| risk-management | **1117** | 558 | █████████░░░ |
-| compliance-engineering | **1066** | 563 | █████████░░░ |
-| digital-sovereignty | **867** | 651 | ███████░░░░░ |
-| human-oversight | **763** | 342 | ██████░░░░░░ |
-| transparency | **535** | 363 | ████░░░░░░░░ |
+| regulatory-frameworks | **1514** | 763 | ████████████ |
+| ai-literacy | **1331** | 702 | ███████████░ |
+| standards | **1163** | 789 | █████████░░░ |
+| risk-management | **1141** | 582 | █████████░░░ |
+| compliance-engineering | **1093** | 590 | █████████░░░ |
+| digital-sovereignty | **892** | 676 | ███████░░░░░ |
+| human-oversight | **787** | 366 | ██████░░░░░░ |
+| transparency | **545** | 373 | ████░░░░░░░░ |
 | surveys | **1** | 1 | █░░░░░░░░░░░ |
 
 ### By year
@@ -30,46 +30,46 @@ Sources: **arXiv** 566 (7%).
 | 2023 | 214 | █░░░░░░░░░░░ |
 | 2024 | 1514 | █████░░░░░░░ |
 | 2025 | 2842 | █████████░░░ |
-| 2026 | 3677 | ████████████ |
+| 2026 | 3897 | ████████████ |
 
 ### Momentum (hottest categories)
 
 | Category | Total | Rate | Recent | Score |
 |----------|-------|------|--------|-------|
-| Digital Sovereignty | 867 | 54.2/mo | 75% | 390 |
-| Transparency | 535 | 30.2/mo | 68% | 261 |
-| Standards | 1127 | 62.8/mo | 67% | 226 |
-| Regulatory Frameworks | 1470 | 59.9/mo | 49% | 115 |
-| Compliance Engineering | 1066 | 46.9/mo | 53% | 114 |
-| Ai Literacy | 1301 | 56.0/mo | 52% | 101 |
+| Digital Sovereignty | 892 | 56.3/mo | 76% | 406 |
+| Transparency | 545 | 31.1/mo | 68% | 269 |
+| Standards | 1163 | 65.8/mo | 68% | 240 |
+| Regulatory Frameworks | 1514 | 63.6/mo | 50% | 126 |
+| Compliance Engineering | 1093 | 49.2/mo | 54% | 123 |
+| Ai Literacy | 1331 | 58.5/mo | 53% | 109 |
+| Risk Management | 1141 | 48.5/mo | 51% | 102 |
 | Surveys | 1 | 0.1/mo | 100% | 100 |
-| Risk Management | 1117 | 46.5/mo | 50% | 95 |
-| Human Oversight | 763 | 28.5/mo | 45% | 59 |
+| Human Oversight | 787 | 30.5/mo | 46% | 69 |
 
 ### Trending keywords
 
 | Keyword | Papers | Burst |
 |---------|--------|-------|
-| algorithmic accountability | 66 | 1.37 |
-| digital sovereignty | 188 | 1.34 |
-| regulatory sandbox | 199 | 1.09 |
-| human oversight | 483 | 1.08 |
-| high risk | 29 | 0.62 |
+| algorithmic accountability | 70 | 1.36 |
+| digital sovereignty | 194 | 1.33 |
+| human oversight | 518 | 1.09 |
+| regulatory sandbox | 203 | 1.08 |
+| high risk | 30 | 0.62 |
 
 ### Top venues
 
 | Venue | Papers |
 |-------|--------|
-| Zenodo (CERN European Organization for Nuclear Research) | 849 |
+| Zenodo (CERN European Organization for Nuclear Research) | 912 |
 | SSRN Electronic Journal | 446 |
-| arXiv (Cornell University) | 149 |
-| Advances in computational intelligence and robotics book series | 70 |
-| Preprints.org | 54 |
-| AI and Ethics | 50 |
-| Research Square | 48 |
+| arXiv (Cornell University) | 153 |
+| Advances in computational intelligence and robotics book series | 72 |
+| Preprints.org | 55 |
+| Research Square | 53 |
+| AI and Ethics | 52 |
 | Lecture notes in computer science | 38 |
+| Figshare | 37 |
 | Communications in computer and information science | 36 |
-| Frontiers in Education | 36 |
 
 ### Research gaps (thinnest cells)
 
